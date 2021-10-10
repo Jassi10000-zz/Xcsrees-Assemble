@@ -1,0 +1,6 @@
+FOR FRONTEND
+
+1. Header component - logo , search bar and header icons 
+2.
+
+FOR BACKEND
